@@ -14,5 +14,5 @@ API_KEY={apiKey} API_SECRET={apiSecret} node example.js start {sessionId}
 
 stop archive
 ```
-API_KEY={apiKey} API_SECRET={apiSecret} node example.js stop {sessionId}
+API_KEY={apiKey} API_SECRET={apiSecret} node example.js stop {archiveId}
 ```
